@@ -4,3 +4,5 @@ Amount = 200 , Category = food
 Amount = 300 , Category = movie 
 Amount = 300 , Category = food 
 Amount = 400 , Category = dgdg 
+Amount = 200 , Category = food 
+Amount = 500 , Category = Movie 
